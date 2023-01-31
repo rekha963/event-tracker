@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e241ad209730211059df7f200153afdc" label="item" max_length="40" name="x_970676_test123_item" type="collection">
+        <element default="40" label="Temp_Time" max_length="40" name="temp_time" type="glide_date_time"/>
+    </element>
+</database>
